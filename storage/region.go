@@ -6,8 +6,8 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/qiniu/api.v7/v7/auth"
-	"github.com/qiniu/api.v7/v7/client"
+	"github.com/vickxxx/api.v7/auth"
+	"github.com/vickxxx/api.v7/client"
 )
 
 // 存储所在的地区，例如华东，华南，华北

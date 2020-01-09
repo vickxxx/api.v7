@@ -8,7 +8,7 @@ import (
 	"os"
 	"sync"
 
-	"github.com/qiniu/api.v7/v7/internal/log"
+	"github.com/vickxxx/api.v7/internal/log"
 )
 
 // 分片上传过程中可能遇到的错误

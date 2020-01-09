@@ -4,7 +4,7 @@ import (
 	"runtime/debug"
 	"testing"
 
-	"github.com/qiniu/api.v7/v7/auth"
+	"github.com/vickxxx/api.v7/auth"
 )
 
 var (

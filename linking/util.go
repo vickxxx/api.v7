@@ -3,7 +3,7 @@ package linking
 import (
 	"net/http"
 
-	"github.com/qiniu/api.v7/v7/auth"
+	"github.com/vickxxx/api.v7/auth"
 )
 
 // ---------------------------------------------------------------------------------------
